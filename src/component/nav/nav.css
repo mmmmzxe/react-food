@@ -1,0 +1,49 @@
+nav {
+    background-color: white;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+
+
+}
+
+#navlist {
+    background: #ab3550;
+    border-radius: 25px;
+    box-sizing: border-box;
+    color: white;
+
+}
+
+nav #navlist:hover {
+    background: white;
+    color: #ab3550 !important;
+    border-radius: 25px;
+    box-shadow:  rgba(221, 120, 113, 0.774) 0px 50px 100px -20px,
+     rgba(221, 120, 113, 0.774) 0px 30px 60px -30px,
+      rgba(221, 120, 113, 0.774) 0px -2px 6px 0px inset;
+    
+}
+
+.ml-auto a {
+    color: #ab3550 !important;
+    font-size: 15;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   margin: 10px;
+   font-family: serif;
+}
+
+.span {
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+    font-family: serif;
+}
+
+.span2 {
+    color: #ab3550;
+    font-size: 45px;
+    font-family: cursive;
+}

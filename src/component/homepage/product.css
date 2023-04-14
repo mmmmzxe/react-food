@@ -1,0 +1,86 @@
+.blogs {
+    margin: 20px;
+    padding: 30px;
+    overflow: hidden;
+    width: 100%;
+    align-items: center;
+
+
+}
+
+
+.blogs .row:first-child {
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    overflow: hidden;
+
+}
+
+.blogs .box {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    box-sizing: border-box;
+    border: 1px solid #333;
+    margin: 20px;
+    overflow: hidden;
+
+}
+
+.blogs h2 {
+    font-weight: bold;
+    font-family: monospace;
+    line-height: 50px;
+    color: #ab3550;
+    font-size: 45px;
+    width: 100%;
+
+}
+
+.blogs p {
+    font-size: 15px;
+    line-height: 28px;
+    color: #333;
+    font-family: cursive;
+}
+
+.blogs img {
+    width: 100%;
+    height: 250px;
+}
+
+.blogs h5 {
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ab3550;
+    font-family: serif;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.blogs button {
+    width: 150px;
+    box-sizing: border-box;
+    height: 40px;
+    background: #ab3550 !important;
+    border-radius: 50px;
+    border: 1px solid #ab3550 !important;
+    text-align: center;
+    color: white;
+    margin: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+
+.blogs button:hover {
+    background: white !important;
+    color: #ab3550 !important;
+    border-radius: 25px;
+    box-shadow: rgba(221, 120, 113, 0.774) 0px 50px 100px -20px,
+        rgba(221, 120, 113, 0.774) 0px 30px 60px -30px,
+        rgba(221, 120, 113, 0.774) 0px -2px 6px 0px inset;
+}

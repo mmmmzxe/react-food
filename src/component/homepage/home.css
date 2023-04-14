@@ -1,0 +1,89 @@
+.namders{
+    background: #f5eded91;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin: 20px;
+}
+.namders span{
+    font-size: 28px; 
+    font-weight: bold;
+    margin: 10px 0px;
+
+}
+.namders .pluss{
+color: #ab3550;
+}
+.namders h6{
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #ab3550;
+    font-family: serif;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+.pride{
+    background: transparent;
+    padding: 30px 0px;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 70px;
+}
+.pride img{
+    max-width: 100%;
+    border-radius: 10px;
+    
+}
+.pride h2{
+    text-align: center;
+    width: 85%;
+font-size: 38px;
+font-weight: bold;
+font-family: serif;
+text-transform: capitalize;
+color: #ab3550;   
+letter-spacing: 1; 
+margin: 30px;
+}
+#button{
+    background: #f5eded91;
+    text-align: center;
+}
+.pride p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:sans-serif;
+    text-transform: capitalize;
+    color: #33333363; 
+    letter-spacing: 1; 
+    margin: 30px;
+    line-height: 25px;
+    padding: 20px;
+}
+.pride button{
+    width: 150px;
+    box-sizing: border-box;
+    height: 40px;
+    background: #ab3550 !important;
+    border-radius: 50px;
+    border: 1px solid #ab3550 !important;
+  text-align: center;
+    color: white;
+   margin: 20px;
+    font-weight: bold;
+    text-transform:capitalize;
+  
+    
+}
+.pride button:hover{
+    background: white !important;
+    color: #ab3550 !important;
+    border-radius: 25px;
+    box-shadow:  rgba(221, 120, 113, 0.774) 0px 50px 100px -20px,
+     rgba(221, 120, 113, 0.774) 0px 30px 60px -30px,
+      rgba(221, 120, 113, 0.774) 0px -2px 6px 0px inset;
+}
